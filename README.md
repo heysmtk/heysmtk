@@ -1,21 +1,9 @@
-![Hello, (2)](https://github.com/heysmtk/heysmtk/assets/142721224/09eb4403-46ab-40bd-a419-0303f42b6c28)
+![Hello](https://github.com/heysmtk/heysmtk/assets/142721224/b436ddae-d1d0-4fc1-87bb-9f504bbd51ac)
 ## About me
-My real name is **Tomáš Smutek**, I am a working father of two. I'm still working outside of the IT field for now, but I'm doing everything I can to work there one day. During my self-learning journey, my dream was to become an iOS developer. My longtime love for Apple and a huge interest in becoming a programmer came together. I would love to find my first junior position in IT as an iOS developer.
-## Tech stack
-**Currently learning:**
-- Swift
-- SwiftUI
-- Working with data (JSON, Firebase…)
-- Networking
-- GIT, Github
-
-**I want to learn:**
-- UIKit
-- Core Data / SwiftData
-- Testing
-- Software architecture
-- Multi-threading
-- *and much more...*
+My real name is **Tomas Smutek**, I am a working father of two. I'm not working in the IT field yet, but I'm doing everything I can to work there one day. I've been dreaming of working as a programmer for a while now. I enjoy learning new things and IT is absolutely perfect for that. So once the kids are asleep, the work that I enjoy starts and that is learning programming.
+## Currently learning
+- Python
+- Git
 
 ## My projects
 - Soon...
