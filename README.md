@@ -1,21 +1,18 @@
 # 👋 ![Vanilla-3s-232px](https://github.com/heysmtk/heysmtk/assets/142721224/ce0f3ff2-93a6-414d-bfbd-b9a36a56f7b3)
 
 ### About me
-My real name is **Tomáš Smutek**, I am a working father of two. I'm still working outside of the IT field for now, but I'm doing everything I can to work there one day. During my self-learning journey, my dream was to become an **iOS developer**. My longtime love for Apple and a huge interest in becoming a programmer came together. I would love to find my first junior position in IT as an iOS developer.
+My real name is Tomáš Smutek, I am a working father of two children. I'm not working in the IT field yet, but I'm doing everything I can to work there one day. My dream for a long time is to become a programmer in the field of web and more specifically **Fullstack**. I would like to eventually be able to build a more complex web system from scratch.
 
-### Tech stack (learning)
-- Swift
-- SwiftUI
-- Firebase, JSON
-- Git
+### Tech Stack
+- Currently learning **PHP, HTML, GIT, SQL**
 
-**In future:**
-- _UIkit_
-- _Core Data / Swift Data_
-- _Testing_
-- _SW Architecture_
-- _Multi-threading_
-- _and more..._
+#### In future
+| FRONTEND   | BACKEND | OTHER         |
+|------------|---------|---------------|
+| HTML, CSS  | PHP     | SQL databases |
+| JavaScript | Python  | GIT           |
+| React.js   | Node.js | AWS / GCP     |
+| Vue.js     | GO      | and more...   |
 
 ### My project:s
 - Soon...
