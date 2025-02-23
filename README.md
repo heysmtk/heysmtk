@@ -10,6 +10,4 @@
 #### Learning stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,git,react,typescript,tailwind,next)](https://skillicons.dev)
 
-#### Latest activity
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![image](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
