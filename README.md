@@ -11,3 +11,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,git,react,typescript,tailwind,next)](https://skillicons.dev)
 
 #### Latest activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
