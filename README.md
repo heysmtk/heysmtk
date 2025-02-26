@@ -11,7 +11,5 @@
 #### Learning stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,git,react,typescript,tailwind,next)](https://skillicons.dev)
 
-![image](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
 #### Latest blog posts
 - 
