@@ -6,8 +6,12 @@
 - 👨‍👩‍👦‍👦 Father of two amazing children and loving husband
 - 🤸🏼‍♂️ Calisthenics athlete & runner
 
-#### Learning stack
+#### 👨🏼‍💻 Learning stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,git,react,typescript,tailwind,next)](https://skillicons.dev)
 
-#### How to reach me
+#### ✍️ Lastest posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+#### ✨ How to reach me
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heysmtk/)  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smtktom@gmail.com) 
