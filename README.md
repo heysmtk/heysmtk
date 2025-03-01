@@ -11,6 +11,7 @@
 
 #### ✍️ Lastest posts
 <!-- BLOG-POST-LIST:START -->
+- [👋 Hello World! - SMTK](https://dev.to/heysmtk/hello-world-smtk-1p85)
 <!-- BLOG-POST-LIST:END -->
 
 #### ✨ How to reach me
