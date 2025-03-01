@@ -2,7 +2,7 @@
 
 - 👨🏼‍💻 Self-taught **Web developer**
 - 📱 I'm currently learning **Frontend** and I love it
-- 📝 I'm writing a little [TIL blog](https://github.com/heysmtk/blog)
+- 📝 I'm writing a [micro blog](https://dev.to/heysmtk) about my IT journey
 - 👨‍👩‍👦‍👦 Father of two amazing children and loving husband
 - 🤸🏼‍♂️ Calisthenics athlete & runner
 
