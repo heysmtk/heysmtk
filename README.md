@@ -11,7 +11,6 @@
 
 ### 📕 Lastest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [test - autodeploy](https://dev.to/heysmtk/test-autodeploy-2dmn)
 - [👋 Hello World! - SMTK](https://dev.to/heysmtk/hello-world-smtk-1p85)
 <!-- BLOG-POST-LIST:END -->
 
