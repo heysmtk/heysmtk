@@ -1,13 +1,12 @@
 ## 👋 Hello, I am Tomáš Smutek
 
-- 👨🏼‍💻 Self-taught **Web / Frontend developer**
-- 📱 I'm currently learning on [The Odin Project](https://www.theodinproject.com/) and I love it
-- 📝 Sometime posting [here](https://bsky.app/profile/smtk.cz) about my IT journey
-- 👨‍👩‍👦‍👦 Father of two amazing children and loving husband
-- 🤸🏼‍♂️ Calisthenics athlete & runner
+- Self-taught **Software Engineer**
+- I'm currently learning on [Boot.dev](https://www.boot.dev/) and I love it
+- You can reach me on [LinkedIn](https://www.linkedin.com/in/heysmtk/) or via [e-mail](mailto:smtktom@gmail.com)
+- And sometimes I [blog](https://dev.to/heysmtk) (in Czech) about how I'm doing on my IT journey.
+- Father of two amazing children and loving husband
+- Calisthenics athlete & runner
 
-### 👨🏼‍💻 Learning stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,git,react,typescript,tailwind,next)](https://skillicons.dev)
-
-### ✨ How to reach me
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/heysmtk/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:smtktom@gmail.com) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/smtk.cz)
+#### Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
