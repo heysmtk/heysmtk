@@ -9,4 +9,5 @@
 
 #### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [👋 Hello World!](https://dev.to/heysmtk/hello-world-smtk-1p85)
 <!-- BLOG-POST-LIST:END -->
