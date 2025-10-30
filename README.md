@@ -2,7 +2,7 @@
 
 - Self-taught **Software Engineer**
 - In the field of **Backend** & **IoT Embedded Systems**
-- You can reach me on [LinkedIn](https://www.linkedin.com/in/heysmtk/) or via [e-mail](mailto:smtktom@gmail.com)
+- You can reach me on [Mastodon](https://fosstodon.org/@heysmtk), [LinkedIn](https://www.linkedin.com/in/heysmtk/) or via [e-mail](mailto:smtktom@gmail.com)
 - Father of two amazing children and loving husband
 - **Note**: I don't use **AI** to generate code, I use AI as a **mentor**!
 
@@ -19,4 +19,4 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![K8s](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-- and more...
+- more...
